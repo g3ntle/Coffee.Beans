@@ -31,7 +31,7 @@ person.Fill(values);
 ```
 
 ```cs
-Console.WriteLine($"{person.FirstName} {person.LastName}")
+Console.WriteLine($"{person.FirstName} {person.LastName}");
 ```
 
 ```
