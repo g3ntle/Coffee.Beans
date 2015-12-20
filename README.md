@@ -6,7 +6,14 @@
 
 ## Overview
 
+* [Installation](#installation)
 * [Example](#example)
+
+## Installation
+
+```
+nuget install Coffee.Beans -Source http://robhendriks.azurewebsites.net/nuget
+```
 
 ## Example
 
