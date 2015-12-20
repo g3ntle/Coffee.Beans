@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Coffee.Beans</id>
+    <version>1.0.0</version>
+    <authors>g3ntle</authors>
+    <licenseUrl>https://github.com/g3ntle/Coffee.Beans/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/g3ntle/Coffee.Beans</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/g3ntle/Coffee.Beans/master/docs/logo-64x64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Object population simplified.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Utility</tags>
+  </metadata>
+  <files>
+    <file src="..\src\Coffee.Beans\bin\Release\Coffee.Beans.dll" target="lib\Coffee.Beans.dll"/>
+  </files>
+</package>
